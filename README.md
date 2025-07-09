@@ -10,26 +10,6 @@ This project implements a multi-map navigation system in ROS Noetic using `map_s
 
 ---
 
-## Project Structure
-
-multi_map_nav/
-├── maps/
-│ ├── room_A.yaml
-│ ├── room_B.yaml
-│ ├── room_A.pgm
-│ ├── room_B.pgm
-├── src/
-│ ├── multi_map_server.cpp
-│ └── ...
-├── launch/
-│ ├── multi_map_nav.launch
-│ ├── static_tf.launch
-├── wormholes.db
-├── README.md
-
-
----
-
 ## Requirements
 
 - Ubuntu 20.04
